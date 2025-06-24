@@ -1,3 +1,11 @@
+### ✅ Câu hỏi 5 – The Graph + NFT trên Base Sepolia
+
+**Prompt:**
+
+> Em hãy nhờ Trea hỗ trợ tạo một dự án TypeScript cho phép người dùng nhập địa chỉ ví EVM (trên mạng Base Sepolia) để kiểm tra xem ví đó có sở hữu NFT từ BaseCamp không. Dự án cần sử dụng subgraph từ The Graph. Em cần mô tả lại cách hoạt động và mục đích của từng phần trong dự án.
+
+---
+
 ## 🎯 **Bài thực hành: Kiểm tra ví có sở hữu NFT từ BaseCamp hay không**
 
 **Mục tiêu:**
