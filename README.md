@@ -1,4 +1,4 @@
-### ✅ Câu hỏi 5 – The Graph + NFT trên Base Sepolia
+### ✅ Câu hỏi – The Graph + NFT trên Base Sepolia
 
 **Prompt:**
 
